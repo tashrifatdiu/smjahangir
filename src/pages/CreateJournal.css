@@ -1,0 +1,52 @@
+.create-journal-page {
+  padding: 5rem 0;
+  animation: fadeInUp 0.8s ease-out;
+}
+
+.create-journal-page h1 {
+  text-align: center;
+  margin-bottom: 4rem;
+  font-size: 3rem;
+  background: linear-gradient(135deg, var(--primary-red), var(--accent-yellow));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: 900;
+}
+
+.journal-form {
+  max-width: 900px;
+  margin: 0 auto;
+  background: var(--black-card);
+  padding: 3.5rem;
+  border-radius: 20px;
+  box-shadow: 0 15px 50px rgba(220, 38, 38, 0.4);
+  border: 2px solid var(--border-color);
+}
+
+.form-actions {
+  display: flex;
+  gap: 1.5rem;
+  margin-top: 2.5rem;
+}
+
+.form-actions .btn {
+  flex: 1;
+}
+
+
+.image-preview {
+  margin-top: 1rem;
+  border-radius: 12px;
+  overflow: hidden;
+  max-width: 600px;
+  border: 2px solid var(--primary-green);
+}
+
+.image-preview img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
