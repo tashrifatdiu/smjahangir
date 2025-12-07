@@ -24,7 +24,7 @@ const TeamPanel = () => {
           <div className="pyramid-level level-1">
             <div className="pyramid-node">
               <div className="node-avatar leader">
-                <img src="/src/images/sm_jahangir.jpg" alt="এস এম জাহাঙ্গীর হোসেন" />
+                <img src="/images/sm_jahangir.jpg" alt="এস এম জাহাঙ্গীর হোসেন" />
                 <span className="verified-check">✓</span>
               </div>
               <div className="node-info">

@@ -16,7 +16,7 @@ const PioneersPage = () => {
           <div className="pioneer-content">
             <div className="pioneer-image-wrapper">
               <img 
-                src="/src/images/ziaur_rahman.png" 
+                src="/images/ziaur_rahman.png" 
                 alt="শহীদ রাষ্ট্রপতি জিয়াউর রহমান" 
                 className="pioneer-image"
               />
@@ -68,7 +68,7 @@ const PioneersPage = () => {
           <div className="pioneer-content">
             <div className="pioneer-image-wrapper">
               <img 
-                src="/src/images/khaleda_zia.png" 
+                src="/images/khaleda_zia.png" 
                 alt="বেগম খালেদা জিয়া" 
                 className="pioneer-image"
               />
@@ -120,7 +120,7 @@ const PioneersPage = () => {
           <div className="pioneer-content">
             <div className="pioneer-image-wrapper">
               <img 
-                src="/src/images/tarek_zia.png" 
+                src="/images/tarek_zia.png" 
                 alt="তারেক রহমান" 
                 className="pioneer-image"
               />

@@ -23,7 +23,7 @@ const HomePage = () => {
             <div className="politician-image-wrapper">
               <div className="image-glow"></div>
               <img 
-                src="/src/images/sm_jahangir.jpg" 
+                src="/images/sm_jahangir.jpg" 
                 alt="এস এম জাহাঙ্গীর হোসেন" 
                 className="politician-image"
               />

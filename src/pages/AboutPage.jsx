@@ -10,7 +10,7 @@ const AboutPage = () => {
           <div className="biography-content">
             <div className="biography-image">
               <img 
-                src="/src/images/sm_jahangir.jpg" 
+                src="/images/sm_jahangir.jpg" 
                 alt="এস এম জাহাঙ্গীর হোসেন" 
               />
             </div>
