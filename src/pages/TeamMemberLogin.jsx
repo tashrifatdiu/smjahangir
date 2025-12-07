@@ -19,7 +19,7 @@ const TeamMemberLogin = () => {
     setLoading(true);
 
     try {
-      const response = await fetch('http://localhost:5002/team-member/login', {
+      const response = await fetch('https://smbackend-uptj.onrender.com/team-member/login', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'

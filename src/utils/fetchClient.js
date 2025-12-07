@@ -1,4 +1,4 @@
-const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:5002';
+const API_BASE_URL = import.meta.env.VITE_API_URL || 'https://smbackend-uptj.onrender.com';
 
 const fetchClient = async (url, options = {}) => {
   const token = localStorage.getItem('token');
